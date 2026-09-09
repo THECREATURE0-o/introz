@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<H2>ABOUT-ME!!</H2>
+<b>ABOUT-ME!!</b>
 </p>
 
 <p align="center">
