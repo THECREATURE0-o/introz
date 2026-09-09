@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-__ABOUT ME!!__
+**ABOUT-ME!!**
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Interact w/ me all u want :-D
 ---
 
 <img src="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg" align="left" width="150" alt="blahblah">
-Genderfluid , Genderfaun , Aroace , Omnisexual.
+Genderfluid , Genderfaun , Aroace , Omnisexual.<br>
 I am a yumeshppr! Mirror, selective and hyper sharing!!
 <br clear="left"/>
 
@@ -30,7 +30,7 @@ MAIN fandomz: POSTAL, Bad Things, ULTRAKILL, Casualties  Unknown + Gunsaw, TMC, 
 <br clear="right">
 
 <img src="https://i.pinimg.com/736x/f6/71/93/f67193e89a2107aa10db462b3ef7572d.jpg" align="left" width="150" alt="bandz">
-FAV ARTISTS! I LOVE LOVEEEEEE MSI, NGỌT, THẮNG AND THEFLOB!! I have other fav like Devi McCallion, Type O Negative, Femtanyl, Johnnie Guilbert + Jake Webber (I also watch them on YT), MARETU, Kikuo, Utsu-P, blahblah..
+FAV ARTISTS! I LOVE LOVEEEEEE MSI, NGỌT, THẮNG AND THEFLOB!! <br> I have other fav like Devi McCallion, Type O Negative, Femtanyl, Johnnie Guilbert + Jake Webber (I also watch them on YT), MARETU, Kikuo, Utsu-P, blahblah..
 <br clear="left">
 
 wip wip stillll wippp :-p
