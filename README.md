@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I am known as Creature or Fizzy <br> I am an online emo/scene freak who spamz emoticon and write sum typing quirks ^_^ 24/7 on my laptop <br> I do art and animations for fun and other stuffz too :-) <br> Interact w/ me all u want :-D
+I am known as Creature or Fizzy, I am from Vietnam <br> I am an online emo/scene freak who spamz emoticon and write sum typing quirks ^_^ 24/7 on my laptop <br> I do art and animations for fun and other stuffz too :-) <br> Interact w/ me all u want :-D
 </p>
 
 <h1>.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅</h1>
