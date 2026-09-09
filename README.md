@@ -1,5 +1,5 @@
 <p align="center">
-<img width="560" height="200" alt="hello" src="https://i.pinimg.com/1200x/e3/22/fb/e322fbd951165e2b7211bd0e049f3301.jpg">
+<img width="560" height="200" alt="hello" src="https://i.pinimg.com/originals/4b/ea/ca/4beaca89dc536ab5b2766d00af2f095e.gif">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ I do art and animations for fun and other stuffz too :-)
 </p>
 
 <p align="left">
-<img width="150" height= "150" alt="blahblah" scr="https://i.pinimg.com/736x/2e/eb/17/2eeb17fa60ffdb91e1417899ed53ab9e.jpg"> txt txt txt, txt txt txt (fandom section)
+<img width="150" height= "150" alt="10000239" scr="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg"> txt txt txt, txt txt txt (queer stuffz idk man)
 </p>
 
 holy wip wip wipppp
