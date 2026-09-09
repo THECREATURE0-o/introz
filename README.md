@@ -14,8 +14,8 @@ I am known as Creature or Fizzy
 I do art and animations for fun and other stuffz too :-)
 </p>
 
-<p align="left">
-<img width="150" height= "150" alt="10000239" scr="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg"> txt txt txt, txt txt txt (queer stuffz idk man)
+<img src="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg" align="left" width="150" alt="blahblah">
+test test
 </p>
 
 holy wip wip wipppp
