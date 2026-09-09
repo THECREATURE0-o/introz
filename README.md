@@ -15,7 +15,7 @@ I do art and animations for fun and other stuffz too :-)
 </p>
 
 <p align="left">
-<img width="150" height= "150" scr="https://i.pinimg.com/736x/2e/eb/17/2eeb17fa60ffdb91e1417899ed53ab9e.jpg"> txt txt txt, txt txt txt (fandom section)
+<img width="150" height= "150" alt="blahblah" scr="https://i.pinimg.com/736x/2e/eb/17/2eeb17fa60ffdb91e1417899ed53ab9e.jpg"> txt txt txt, txt txt txt (fandom section)
 </p>
 
 holy wip wip wipppp
