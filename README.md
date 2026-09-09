@@ -15,7 +15,8 @@ I do art and animations for fun and other stuffz too :-)
 </p>
 
 <img src="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg" align="left" width="150" alt="blahblah">
-test test
+Genderfluid , Genderfaun , Aroace , Omnisexual
+I am a yumeshppr! Mirror, selective and hyper sharing!!
 </p>
-
+----
 holy wip wip wipppp
