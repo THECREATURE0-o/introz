@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-**ABOUT ME!!**
+ABOUT ME!!
 </p>
 
 <p align="center">
