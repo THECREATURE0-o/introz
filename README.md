@@ -30,3 +30,4 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <hr>
 
 wip wip stillll wippp :-p
+![Profile Views](https://komarev.com/ghpvc/?username=Fizzy&color=ff66cc&style=for-the-badge)
