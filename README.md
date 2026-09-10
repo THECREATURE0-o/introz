@@ -3,17 +3,19 @@
 </p>
 
 <p align="center">
-<b>ABOUT-ME!!</b>
+<h1>ABOUT-ME!!</h1>
 </p>
 
 <p align="center">
 I am known as <b>Creature</b> or <b>Fizzy</b>, I am from <b>Vietnam</b>, my b'day: 14/7 <br> I am an online emo/scene freak who spamz emoticon and write sum typing quirks ^_^ 24/7 on my laptop <br> I do art and animations for fun and other stuffz too :-) <br> Interact w/ me all u want :-D
 </p>
 
-<h1>.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅</h1>
+<hr>
+
+<h1>.𖥔 ݁ ˖   ✦ Stuffz abt me :-D   ‧₊˚ ⋅</h1>
 
 <img src="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg" align="left" width="150" alt="blahblah">
-Genderfluid , Genderfaun , Aroace ,Omnisexual.<br>
+<b>Genderfluid , Genderfaun , Aroace ,Omnisexual</b>.<br>
 I am a yumeshppr! Mirror, selective and hyper sharing!!
 <br clear="left"/>
 
