@@ -29,7 +29,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 
 <hr>
 
-<h2>insert very aesthetic dividers</h2>
+<h2>insert very aesthetic dividers (totally not lazy 2 add)</h2>
 <img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="250" alt="PONY_TOWN_SECTION">
 <center>
 <h1>PONY-TOWN-STUFFZ</h1> <sub>Will keep this short, I still have my list sections to do and I am not on PT that much anymore :-)</sub>
@@ -69,7 +69,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
  <ul>
 <li> COPYING MY SKIN
 <li> Whis me weird stuffz
-<li> Bullying/harrasing :-(
+<li> Bullying/harasing :-(
 </ul>
 </details>
 </center>
