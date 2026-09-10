@@ -30,7 +30,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <hr>
 
 <h2>insert very aesthetic dividers</h2>
-<img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="200" alt="PONY_TOWN_SECTION">
+<img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="250" alt="PONY_TOWN_SECTION">
 <center>
 <h1>PONY-TOWN-STUFFZ</h1> <sub>Will keep this short, I still have my list sections to do and I am not on PT that much anymore :-)</sub>
 </center>
@@ -38,6 +38,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <abbr title="My status on PT">PT_STATUS:</abbr> FTI, IWC, C.H <br> W2I if I am afk or offtab
 <br>
 <center>
+
 <details>
 <summary> STUFFZ I LIKE </summary>
 <br>
@@ -48,7 +49,8 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <li> C+H ^_^
  </ul>
 </details>
-<br><br>
+<br>
+
 <details>
 <sumary> STUFFZ I FOUND OKAY BUT LIMITED </summary>
 <br>
@@ -59,7 +61,8 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <li> spamz or covering text (I'm trying to talk okay)
  </ul>
 </details>
-<br><br>
+<br>
+
 <details>
 <sumary> NOT OKAY 2 ME </sumary>
 <br>
