@@ -33,6 +33,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="250" alt="PONY_TOWN_SECTION">
 <center>
 <h1>PONY-TOWN-STUFFZ</h1> <sub>Will keep this short, I still have my list sections to do and I am not on PT that much anymore :-)</sub>
+
 </center>
 <br>
 <abbr title="My status on PT">PT_STATUS:</abbr> FTI, IWC, C.H <br> W2I if I am afk or offtab
@@ -43,10 +44,10 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <summary> STUFFZ I LIKE </summary>
 <br>
  <ul>
-<li> Hanging out with ppl
-<li> Ppl social to me FIRST (I'm shy to talk okay)
-<li> cool ppl that have same interests as me, or chill :-)
-<li> C+H ^_^
+<li> Hanging out with ppl </li>
+<li> Ppl social to me FIRST (I'm shy to talk okay) </li>
+<li> cool ppl that have same interests as me, or chill :-) </li>
+<li> C+H ^_^ </li>
  </ul>
 </details>
 <br>
@@ -55,10 +56,10 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <summary> STUFFZ I FOUND OKAY BUT LIMITED </summary>
 <br>
  <ul>
-<li> Skins that inspired by my skin
-<li> covering me
-<li> trollz (might block if too insensitive or joke along, 50 50 based on how u act)
-<li> spamz or covering text (I'm trying to talk okay)
+<li> Skins that inspired by my skin </li>
+<li> covering me </li>
+<li> trollz (might block if too insensitive or joke along, 50 50 based on how u act) </li>
+<li> spamz or covering text (I'm trying to talk okay) </li>
  </ul>
 </details>
 <br>
@@ -67,11 +68,12 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <summary> NOT OKAY 2 ME </summary>
 <br>
  <ul>
-<li> COPYING MY SKIN
-<li> Whis me weird stuffz
-<li> Bullying/harasing :-(
+<li> COPYING MY SKIN </li>
+<li> Whis me weird stuffz </li>
+<li> Bullying/harassing :-( </li>
 </ul>
 </details>
 </center>
 <br>
+
 <sub>use tonetags too plz!</sub>
