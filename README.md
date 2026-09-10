@@ -30,3 +30,4 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <hr>
 
 wip wip stillll wippp :-p
+![Genderfluid](https://img.shields.io/badge/genderfluid-pink?style=flat-square)
