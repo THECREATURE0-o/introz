@@ -52,7 +52,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <br>
 
 <details>
-<sumary> STUFFZ I FOUND OKAY BUT LIMITED </summary>
+<summary> STUFFZ I FOUND OKAY BUT LIMITED </summary>
 <br>
  <ul>
 <li> Skins that inspired by my skin
@@ -64,7 +64,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <br>
 
 <details>
-<sumary> NOT OKAY 2 ME </sumary>
+<summary> NOT OKAY 2 ME </summary>
 <br>
  <ul>
 <li> COPYING MY SKIN
