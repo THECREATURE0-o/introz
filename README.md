@@ -28,7 +28,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <br clear="left">
 
 <hr>
-
+po
 <h2>insert very aesthetic dividers (totally not lazy 2 add)</h2>
 <img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="250" alt="PONY_TOWN_SECTION">
 <center>
@@ -76,4 +76,38 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 </center>
 <br>
 
-<sub>use tonetags too plz! and ts still wippp :-p</sub>
+<sub>use tonetags too plz!</sub>
+<br>
+
+<hr>
+<img src="https://i.pinimg.com/1200x/b2/42/91/b24291a4a2285691049dc766faf9630f.jpg" align="center" width="250" alt="otha_stuffz">
+<center>
+<h1> Otha shit </h1> <br> <sub> again short cuz I'm tired </sub>
+</center>
+
+<br>
+<center>
+<b>DNI LIST</b>: MSI haterz DNI!! Plz just lemme enjoy what I listen :-p besides that, no otha DNI, I block freely !
+<br>
+<details>
+<summary> <b>When talking to me</b>: </summary>
+<br>
+<ul>
+<li> PLEASE USE TONE TAGZ!, I AM BAD AT READING TEXT OKAY :'-) </li>
+<li> I might reply late due how shitty my pc is, or just school and life stuffz, OR I'm just not paying attention to Discord that's all </li>
+<li> Talk 2 me first, I don't bite as a POSTAL fan (maybe) </li>
+<li> b weird all u want, idrc lolz, I'm weird myself already </li>
+<li> I don't mind u calling me, be loud, be urself in call </li>
+</ul>
+</details>
+<br>
+<details>
+<summary> <b>Online Status</b> </summary>
+<br>
+<ul>
+<li> DMs status: DMs open, sometimes it will be ask 4 DMs and always will be late reply, just in case </li>
+<li> Online time (GMT+7): If I don't have school (Sunday), it'll be 8-9AM cuz I'm a heavy sleeper, but If I do have school, it's 12PM. While I will be online 24/7, but in some  cases I won't reply after 9PM cuz I might be exhausted by that time</li>
+<li> If u see a busy status on my discord profile, I'm not really busy, I do other stuffz on my pc like playing games, coding HTML (for github and oc related stuffz), drawing, making strawpage (rarely), watching yt, etc.. or if I don't reply in a long time then you'll know I'm busy/in a bad mood</li>
+</ul>
+</details>
+</center>
