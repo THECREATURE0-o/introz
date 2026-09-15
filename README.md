@@ -28,7 +28,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 <br clear="left">
 
 <hr>
-po
+
 <h2>insert very aesthetic dividers (totally not lazy 2 add)</h2>
 <img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="550" alt="PONY_TOWN_SECTION">
 <center>
