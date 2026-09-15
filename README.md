@@ -80,7 +80,7 @@ po
 <br>
 
 <hr>
-<img src="https://i.pinimg.com/1200x/b2/42/91/b24291a4a2285691049dc766faf9630f.jpg" align="center" width="250" alt="otha_stuffz">
+<img src="https://i.pinimg.com/1200x/b2/42/91/b24291a4a2285691049dc766faf9630f.jpg" align="center" width="550" alt="otha_stuffz">
 <center>
 <h1> Otha shit </h1> <br> <sub> again short cuz I'm tired </sub>
 </center>
