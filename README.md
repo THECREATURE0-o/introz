@@ -12,7 +12,7 @@ I am known as <b>Creature</b> or <b>Fizzy</b>, I am from <b>Vietnam</b>, my b'da
 
 <hr>
 
-<h1>.𖥔 ݁ ˖   ✦ Stuffz abt me :-D   ‧₊˚ ⋅</h1>
+<h1 align="center">.𖥔 ݁ ˖   ✦ Stuffz abt me :-D   ‧₊˚ ⋅</h1>
 
 <img src="https://i.pinimg.com/736x/fe/85/a6/fe85a612d4ed9ad6ffde64fdec3c4d56.jpg" align="left" width="150" alt="blahblah">
 <b>Genderfluid , Genderfaun , Aroace ,Omnisexual</b>.<br>
@@ -29,7 +29,7 @@ I am a yumeshppr! Mirror, selective and hyper sharing!!
 
 <hr>
 
-<h2>insert very aesthetic dividers (totally not lazy 2 add)</h2>
+<h2 align="center">insert very aesthetic dividers (totally not lazy 2 add)</h2>
 <img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" align="center" width="550" alt="PONY_TOWN_SECTION">
 <center>
 <h1>PONY-TOWN-STUFFZ</h1> <sub>Will keep this short, I still have my list sections to do and I am not on PT that much anymore :-)</sub>
